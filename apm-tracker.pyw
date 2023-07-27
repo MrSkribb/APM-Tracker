@@ -68,8 +68,8 @@ root.lift() # Lift the window to the top of the stacking order
 #root.overrideredirect(True)  # Remove window decorations
 
 # Set the window icon
-icon_path = "path\\to\\your\\ico.ico"
-root.iconbitmap(icon_path)
+# icon_path = "path\\to\\your\\ico.ico"
+# root.iconbitmap(icon_path)
 
 # Create labels with formatting
 font_style_bold = ("Arial", 12, "bold")
